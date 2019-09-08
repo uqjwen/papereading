@@ -4,15 +4,13 @@ NPA: Neural News Recommendation with Personalized Attention
 DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation
 Multiple Relational Attention Network for Multi-task Learning. 
 Link Prediction with Signed Latent Factors in Signed Social Networks.
-Community Detection on Large Complex Attribute Network
-Real-time Event Detection on Social Data Streams
+
 Real-time Attention Based Look-alike Model for Recommender System
 A Collaborative Learning Framework to Tag Refinement for Points of Interest
 Anomaly Detection for an E-commerce Pricing System
 Applying Deep Learning to Airbnb Search. 
 Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search.
 Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction.
-E.T.-RNN: Applying Deep Learning to Credit Loan Applications.
 Dynamic Pricing for Airline Ancillaries with Customer Context.
 DuerQuiz: A Personalized Question Recommender System for Intelligent Job Interview.
 Learning a Unified Embedding for Visual Search at Pinterest
@@ -20,7 +18,7 @@ Learning Sleep Quality from Daily Logs
 Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation.
 MSURU: Large Scale E-commerce Image Classification with Weakly Supervised Search Data.
 Real-time Attention Based Look-alike Model for Recommender System. 
-Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data
+
 Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation
 Towards Knowledge-Based Personalized Product Description Generation in E-commerce
 Understanding Consumer Journey using Attention based Recurrent Neural Networks
